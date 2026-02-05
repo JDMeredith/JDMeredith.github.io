@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "oema_headshot.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Jesse Meredith"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A labor and education economist on the 2026-7 job market."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Boston University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jdmeredi@bu.edu" 
 
   # Academic websites
   academia         : # URL
