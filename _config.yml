@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-
+author:
   # Biographic information
-  avatar           : "\images\oema_headshot.jpg"
+  avatar           : "//oema_headshot.jpg"
   name             : "Jesse Meredith"
   pronouns         : # example: "she/her"  
   bio              : "A labor and education economist on the 2026-7 job market."
